@@ -1,0 +1,2 @@
+# bismillah
+cara membuat bot
